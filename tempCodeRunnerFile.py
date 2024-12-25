@@ -1,1 +1,1 @@
-sympy.solvers.solveset
+C:\Users\devje\OneDrive\Desktop\adventOfCode\day_02.in
